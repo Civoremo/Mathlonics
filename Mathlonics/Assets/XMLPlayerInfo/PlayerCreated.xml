@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfXMLCharacterInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XMLCharacterInfo>
+    <name>New Character</name>
+    <avatarIndex>0</avatarIndex>
+    <levelNum>1</levelNum>
+    <levelXp>0</levelXp>
+    <addXp>0</addXp>
+    <subXp>0</subXp>
+    <multXp>0</multXp>
+    <divXp>0</divXp>
+  </XMLCharacterInfo>
+  <XMLCharacterInfo>
+    <name>New Character</name>
+    <avatarIndex>0</avatarIndex>
+    <levelNum>1</levelNum>
+    <levelXp>0</levelXp>
+    <addXp>0</addXp>
+    <subXp>0</subXp>
+    <multXp>0</multXp>
+    <divXp>0</divXp>
+  </XMLCharacterInfo>
+  <XMLCharacterInfo>
+    <name>New Character</name>
+    <avatarIndex>0</avatarIndex>
+    <levelNum>1</levelNum>
+    <levelXp>0</levelXp>
+    <addXp>0</addXp>
+    <subXp>0</subXp>
+    <multXp>0</multXp>
+    <divXp>0</divXp>
+  </XMLCharacterInfo>
+  <XMLCharacterInfo>
+    <name>New Character</name>
+    <avatarIndex>0</avatarIndex>
+    <levelNum>1</levelNum>
+    <levelXp>0</levelXp>
+    <addXp>0</addXp>
+    <subXp>0</subXp>
+    <multXp>0</multXp>
+    <divXp>0</divXp>
+  </XMLCharacterInfo>
+</ArrayOfXMLCharacterInfo>
